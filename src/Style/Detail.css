@@ -1,0 +1,31 @@
+
+.cardDetail{
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px black;
+    margin: 50px;
+}
+
+.containerDetail{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cardDetail img {
+    width: auto;
+    margin-right: 30px;
+}
+
+.card-body{
+    background-color: #EDEDED;
+    color: #27374D;
+}
+
+.tnpri{
+    background-color: #444444;
+    color: #DDE6ED;
+}
+
